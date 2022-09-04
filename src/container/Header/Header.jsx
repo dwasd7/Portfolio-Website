@@ -37,7 +37,7 @@ const Header = () => (
           <p className="p-text">CS Student</p>
         </div>
         <div className='resume'>
-            <a href="https://drive.google.com/file/d/1EKvoj_G8zatxiorjJ9jPKI9wu6U0pe2r/view">
+            <a href="https://drive.google.com/file/d/1UoKGr2RgOqVpNw_uvBImmCY1PT-dhT7P/view?usp=sharing">
               <motion.p whileHover={{scale:1.4}}>My Resume</motion.p>
             </a>
         </div>
