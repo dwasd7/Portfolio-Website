@@ -21,7 +21,7 @@ const Project = () => {
             </div>
             <motion.div whileHover={{scale:1.2}} className='button_edit'>
               <a href="
-              https://github.com/dwasd7
+              https://github.com/dwasd7/TicTacToe
               ">
                 <motion.button className ="button">
                   Github
@@ -39,7 +39,7 @@ const Project = () => {
             </div>
             <motion.div whileHover={{scale:1.1}} className='button_edit'>
               <a href="
-              https://github.com/dwasd7
+              https://github.com/dwasd7/Simple-Calculator
               ">
                 <motion.button className ="button">
                   Github
@@ -56,7 +56,7 @@ const Project = () => {
             </div>
             <motion.div whileHover={{scale:1.1}} className='button_edit'>
               <a href="
-              https://github.com/dwasd7
+              https://github.com/dwasd7/Task-Reminder-App
               ">
                 <motion.button className ="button">
                   Github
@@ -73,7 +73,7 @@ const Project = () => {
             </div>
             <motion.div whileHover={{scale:1.1}} className='button_edit'>
               <a href="
-              https://github.com/dwasd7
+              https://github.com/dwasd7/Portfolio-Website
               ">
                 <motion.button className ="button">
                   Github
