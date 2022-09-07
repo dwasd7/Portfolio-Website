@@ -67,7 +67,7 @@ const Project = () => {
             
             <div className='project_desc'>
             <motion.img  whileHover={{scale:1.1 ,originY:.7, originX:0}} src={images.portfolio} alt="IMAGE NOT FOUND" />
-             <p>My Portfolio Website using ReactJs and SCss and other libraries like Framer-Motion for Animations </p>  
+             <p>My Fully Responsive Portfolio Website using ReactJs and SCss and other libraries like Framer-Motion for Animations </p>  
             </div>
             <motion.div whileHover={{scale:1.1}} className='button_edit'>
               <a href="
