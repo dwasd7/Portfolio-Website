@@ -20,7 +20,7 @@ const Project = () => {
             </div>
             <motion.div whileHover={{scale:1.2}} className='button_edit'>
               <a href="
-              https://github.com/dwasd7/TicTacToe
+              https://https://github.com/dwasd7/RSC
               ">
                 <motion.button className ="button">
                   Github
