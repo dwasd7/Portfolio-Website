@@ -17,13 +17,13 @@ import reminder from './imgs/reminder.png';
 import portfolio from './imgs/portfolio.png';
 
 //projects images
-import ttt from './imgs/ttt.png'
+import rsc from './imgs/rsc.png'
 import calculator from './imgs/calculator.png'
 
 
 export default {
   calculator,
-  ttt,
+  rsc,
   api,
   cpp,
   css,
